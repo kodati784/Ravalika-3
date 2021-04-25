@@ -1,2 +1,5 @@
 # Ravalika-3
-html files
+HTML FILES
+ 1) hello world
+ 2) simple calculater if else if else
+ 3) simple calculater using switch
